@@ -1,5 +1,7 @@
 # Octo Man
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/octo-man.svg)](https://greenkeeper.io/)
+
 RepoMan connector to [Github API](https://developer.github.com/v3).
 
 ### Features
